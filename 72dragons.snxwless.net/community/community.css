@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+    overflow: hidden;
+      font-family: "Spectral SC", serif;
+}
+#bubbleArea {
+  position: absolute;
+    width: 100%;
+    height: 100%;
+  overflow: hidden;
+}
+
+#country {
+  position: fixed;
+  width: 320px;
+  height: 320px;
+  left: calc(50% - 160px);
+  top: calc(50% - 160px);
+  background-image: url(https://img00.deviantart.net/5880/i/2016/062/9/9/hong_kong_outline_by_freedomking4568-d9tsq9o.png);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: invert(1);
+  color: black;
+  line-height: 320px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  transition: width 0.5s, height 0.5s, left 0.5s, top 0.5s, line-height 0.5s, font-size 0.5s;
+}
+.large {
+  width: 750px !important;
+  height: 750px !important;
+  left: calc(50% - 375px) !important;
+  top: calc(50% - 375px) !important;
+  line-height: 750px !important;
+  font-size: 48px !important;
+}
+
+.bubble {
+  /*ignore text select*/
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;
+  cursor: pointer;
+  overflow: hidden;
+  position: absolute;
+  min-width: 50px;
+  min-height: 50px;
+  max-width: 300px;
+  max-height: 300px;
+  left: 50%;
+  top: 50%;
+  border-radius: 100%;
+  background-color: maroon;
+  opacity: 0.60;
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  transition: width 0.1s, height 0.1s, margin-left 0.25s, margin-top 0.25s, background-color 0.5s, opacity 0.5s, font-size 0.1s;
+}
+.bubble:hover {
+  z-index: 1;
+  background-color: #ad9440;
+  opacity: 1;
+}

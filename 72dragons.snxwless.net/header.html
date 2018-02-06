@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>72 Dragons</title>
+<meta name="viewport" content="width=device-width, height=device-height">
+<link href="https://fonts.googleapis.com/css?family=Spectral+SC:300" rel="stylesheet">
+<script type="text/javascript" src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+  setTimeout(function () {
+      $('#uncover').animate({
+    width: "100%"
+  }, 1000);
+  }, 500);
+  setTimeout(function () {
+    $('#fontred').css({
+      color: "maroon"
+    });
+    $('#title').css({
+      color: "#ad9440"
+    });
+    $('#uncover').css({
+      opacity: "0"
+    });
+    $('nav ul li').css({
+      opacity: "1"
+    });
+    $('#icon').css({
+      opacity: "1"
+    });
+    $('footer').css({
+      opacity: "1"
+    });
+    $('header').css({
+      'border-bottom': "1px rgb(173, 148, 64) solid"
+    });
+  }, 1500);
+  </script>
+<style>
+a {
+  text-decoration: none;
+  transition: color 0.5s;
+}
+a:hover {
+  color: maroon;
+}
+
+header {
+  position: sticky;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  line-height: 100px;
+  transition: border-bottom 0.5s;
+  top: 0;
+  background: #000000;
+  z-index: 214748364;
+}
+#uncover {
+  position: absolute;
+  height: 100px;
+  width: 0%;
+  background: maroon;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+#titleCon {
+  overflow: hidden;
+}
+#title {
+  position: absolute;
+  z-index: 5;
+  font-size: 75px;
+  color: black;
+  transition: color 0.5s;
+}
+#fontred {
+  color: black;
+  transition: color 0.5s;
+}
+#icon {
+  width: 100px;
+  height: 100px;
+  background-image: url(https://cinando.com/img/company/1010924.jpg?width=283&height=283&404=noimg_company.png);
+  background-position: center;
+  background-size: 125%;
+  filter: invert(1) hue-rotate(180deg);
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+nav {
+  position: absolute;
+  right: 10px;
+  font-size: 24px;
+  height: 100%;
+  line-height: 50px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+}
+nav ul li {
+  margin: 0 10px;
+  color: #fff;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.4s;
+}
+nav ul li a:hover {
+  color: maroon;
+}
+</style>
+</head>
+<body>
+<header>
+  <div id="uncover"></div>
+  <a href="/" style="display: flex;"><div id="icon"></div>
+  <div id="titleCon">
+    <div id="title"><span id="fontred">72</span> Dragons</div>
+  </div></a>
+  <nav>
+    <ul>
+      <li><a href="http://72dragons.snxwless.net/production/default.php">Production</a></li>
+      <li><a href="http://72dragons.snxwless.net/community/bubble.php">Community</a></li>
+      <li><a href="http://72dragons.snxwless.net/about/default.php">About</a></li>
+      <li><a href="#">Shop</a></li>
+      <li><a href="http://72dragons.snxwless.net/login.php">Login</a></li>
+    </ul>
+  </nav>
+</header>
+</body>
+</html>

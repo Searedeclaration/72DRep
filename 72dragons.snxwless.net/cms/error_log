@@ -1,0 +1,199 @@
+[03-Feb-2018 05:08:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 338
+[03-Feb-2018 05:11:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'editBody' (T_STRING), expecting ',' or ';' in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 339
+[03-Feb-2018 05:55:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 30
+[05-Feb-2018 03:26:24 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 501
+[05-Feb-2018 03:26:34 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 501
+[05-Feb-2018 03:26:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 506
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 504
+[05-Feb-2018 03:26:54 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 511
+[05-Feb-2018 03:48:24 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/davidmoreno/72dragons.snxwless.net/cms/createAssignment.php on line 535

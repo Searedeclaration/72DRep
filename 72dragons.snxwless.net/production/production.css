@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  font-family: "Spectral SC", serif;
+    overflow-x: hidden;
+}
+#movieList {
+  width: 1000px;
+  position: relative;
+  padding: 50px 0;
+  margin: auto;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.movieContainer {
+  position: relative;
+    margin: 50px 31.66px;
+  display: inline-table;
+  border-radius: 2px;
+  width: 270px;
+  height: 378px;
+  background-size: 100%;
+  left: 0;
+  background-position: center;
+  transition: background-size 0.5s, left 0.5s;
+  cursor: pointer;
+}
+.movieContainer:hover {
+  /*background-size: 110%;*/
+  z-index: 10;
+  left: -135px;
+  box-shadow: 0 0 20px black;
+}
+.moviedetails {
+    width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  text-align: center;
+  opacity: 0;
+  left: 0;
+  transition: opacity 0.5s, left 0.5s;
+  padding: 5px;
+      position: absolute;
+    top: 0;
+    color: white !important;
+}
+.movieContainer:hover .moviedetails {
+opacity: 1;
+  left: 100%;
+    box-shadow: 0 0 20px black;
+}
+.moviedetails h3 {
+  margin: 0;
+}
+#t {
+  width: 50%;
+}
+.viewdetails {
+  border: 1px white solid;
+  width: 50%;
+  margin: 50px 25%;
+  transition: 0.5s;
+}
+.viewdetails:hover {
+  border-color: gold;
+}
+.viewdetails a {
+  color: white;
+}
