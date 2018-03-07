@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>72 Dragons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css?family=Spectral+SC:300" rel="stylesheet">
+<script type="text/javascript" src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+  $('#toggleHeaderDrop').click(function () {
+    $('header nav').toggleClass('showNav');
+  });
+  });
+  </script>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  font-family: "Spectral SC", serif;
+}
+/*HEADER*/
+header {
+  height: 50px;
+  background: #0e0e0e;
+  border-bottom: 1px #ad9440 solid;
+  position: sticky;
+  top: 0;
+  z-index: 100000
+}
+a {
+  text-decoration: none;
+  transition: color 0.5s;
+}
+header a {
+  color: white;
+}
+a:hover {
+  color: maroon;
+}
+#header-main {
+  display: flex;
+  width: fit-content;
+  position: relative;
+  width: 100%;
+}
+#header-icon {
+    height: 49px;
+    width: 49px;
+    background-image: url(http://72dragons.snxwless.net/images/72Dragons-icon.png);
+    background-position: center;
+    background-size: cover;
+}
+#header-titleCon {
+    color: #ad9440;
+    margin-left: 5px;
+    line-height: 49px;
+}
+#header-title {
+  font-size: 36px;
+}
+#header-72 {
+  color: maroon !important;
+}
+
+#toggleHeaderDrop {
+  color: #ad9440;
+  font-size: 36px;
+  position: absolute;
+  right: 5px;
+      margin-top: 6px;
+}
+
+header nav {
+  height: 0;
+  overflow: hidden;
+  transition: height 0.25s;
+}
+.showNav {
+    height: 177px;
+}
+header ul {
+    margin: 0;
+    padding: 0;
+    margin-top: 2px;
+    list-style: none;
+}
+header li {
+    padding: 5px;
+    text-align: center;
+    background: #1b1b1b;
+    border-bottom: 1px #ad9440 solid;
+}
+</style>
+</head>
+<body>
+<header>
+    <div id="header-main">
+     <a href="/" style="display: flex">
+      <div id="header-icon"></div>
+      <div id="header-titleCon">
+        <div id="header-title"><span id="header-72">72</span> Dragons</div>
+      </div>
+        </a>
+      <div id="toggleHeaderDrop"><i class="fas fa-bars"></i></div>
+    </div>
+  <nav>
+    <ul>
+      <li><a href="http://72dragons.snxwless.net/production/default.php"><div>Production</div></a></li>
+      <li><a href="http://72dragons.snxwless.net/community/bubble.php"><div>Community</div></a></li>
+      <li><a href="http://72dragons.snxwless.net/about/default.php"><div>About</div></a></li>
+      <li><a href="#"><div>Shop</div></a></li>
+      <li><a href="http://72dragons.snxwless.net/login.php"><div>Login</div></a></li>
+    </ul>
+  </nav>
+</header>
+</body>
+</html>

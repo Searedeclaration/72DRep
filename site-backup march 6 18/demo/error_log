@@ -1,0 +1,490 @@
+[12-Jan-2018 05:02:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 24
+[12-Jan-2018 05:03:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 24
+[12-Jan-2018 05:04:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 24
+[12-Jan-2018 05:30:49 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 17
+[12-Jan-2018 05:31:49 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 18
+[12-Jan-2018 05:32:17 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 18
+[12-Jan-2018 05:33:06 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 18
+[12-Jan-2018 05:37:58 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 18
+[12-Jan-2018 05:38:04 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 18
+[12-Jan-2018 05:38:11 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 18
+[12-Jan-2018 05:39:11 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 41
+[12-Jan-2018 05:39:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 42
+[12-Jan-2018 05:39:11 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 05:39:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 51
+[12-Jan-2018 05:39:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 41
+[12-Jan-2018 05:39:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 42
+[12-Jan-2018 05:39:28 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 05:39:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 51
+[12-Jan-2018 05:41:16 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 41
+[12-Jan-2018 05:41:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 42
+[12-Jan-2018 05:41:16 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 05:41:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 51
+[12-Jan-2018 05:49:55 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 42
+[12-Jan-2018 05:49:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 43
+[12-Jan-2018 05:49:55 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 51
+[12-Jan-2018 05:49:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 52
+[12-Jan-2018 05:51:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 21
+[12-Jan-2018 05:52:27 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 43
+[12-Jan-2018 05:52:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 44
+[12-Jan-2018 05:52:27 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 52
+[12-Jan-2018 05:52:27 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 53
+[12-Jan-2018 05:56:18 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 05:56:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 05:56:18 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 58
+[12-Jan-2018 05:56:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 05:57:42 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 05:57:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 05:57:42 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 58
+[12-Jan-2018 05:57:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 05:57:53 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 05:57:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 05:57:53 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 58
+[12-Jan-2018 05:57:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 06:02:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 06:02:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 06:02:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 06:02:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 60
+[12-Jan-2018 07:36:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/viewAssignments.php on line 123
+[12-Jan-2018 07:37:23 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 07:37:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 07:37:23 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 07:37:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 60
+[12-Jan-2018 07:37:39 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 07:37:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 07:37:39 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 07:37:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 60
+[12-Jan-2018 07:38:49 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 07:38:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 07:38:49 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 07:38:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 60
+[12-Jan-2018 07:39:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 49
+[12-Jan-2018 07:39:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 50
+[12-Jan-2018 07:39:07 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 59
+[12-Jan-2018 07:39:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 60
+[12-Jan-2018 07:48:03 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 88
+[12-Jan-2018 07:48:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 89
+[12-Jan-2018 07:48:03 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 98
+[12-Jan-2018 07:48:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 99
+[12-Jan-2018 08:12:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 88
+[12-Jan-2018 08:12:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 89
+[12-Jan-2018 08:12:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 98
+[12-Jan-2018 08:12:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 99
+[12-Jan-2018 21:13:02 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 88
+[12-Jan-2018 21:13:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 89
+[12-Jan-2018 21:13:02 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 98
+[12-Jan-2018 21:13:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/addAssignment.php on line 99
+[13-Jan-2018 02:22:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 02:22:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 164
+[13-Jan-2018 03:05:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 177
+[13-Jan-2018 03:07:05 America/Chicago] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 176
+[13-Jan-2018 05:50:06 America/Chicago] PHP Warning:  Division by zero in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 232
+[13-Jan-2018 05:50:06 America/Chicago] PHP Warning:  Division by zero in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 232
+[13-Jan-2018 05:50:06 America/Chicago] PHP Warning:  Division by zero in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 232
+[14-Jan-2018 21:09:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 219
+[14-Jan-2018 21:11:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 219
+[19-Jan-2018 00:09:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 319
+[19-Jan-2018 00:10:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 319
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:25:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 276
+[19-Jan-2018 00:26:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'type' (T_STRING), expecting ',' or ';' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:26:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'type' (T_STRING), expecting ',' or ';' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:26:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'type' (T_STRING), expecting ',' or ';' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:27:35 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:41:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 324
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 320
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:44:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:46:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 00:51:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[19-Jan-2018 01:19:25 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/davidmoreno/72dragons.snxwless.net/demo/webreport.php on line 325
+[24-Jan-2018 05:24:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home4/davidmoreno/72dragons.snxwless.net/demo/storyassignmentdetails.php on line 27
+[30-Jan-2018 22:16:11 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/davidmoreno/72dragons.snxwless.net/demo/productiondetail.php on line 452
+[30-Jan-2018 22:16:43 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/davidmoreno/72dragons.snxwless.net/demo/productiondetail.php on line 452
+[30-Jan-2018 22:16:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/davidmoreno/72dragons.snxwless.net/demo/productiondetail.php on line 452
+[30-Jan-2018 22:16:57 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/davidmoreno/72dragons.snxwless.net/demo/productiondetail.php on line 452
+[30-Jan-2018 22:17:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/productiondetail.php on line 456
+[30-Jan-2018 22:17:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/productiondetail.php on line 456
+[30-Jan-2018 22:17:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/davidmoreno/72dragons.snxwless.net/demo/productiondetail.php on line 456

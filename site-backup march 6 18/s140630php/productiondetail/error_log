@@ -1,0 +1,18 @@
+[30-Jan-2018 23:19:07 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 20
+[30-Jan-2018 23:19:14 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 20
+[30-Jan-2018 23:19:20 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 20
+[30-Jan-2018 23:19:29 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 20
+[30-Jan-2018 23:44:58 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 20
+[30-Jan-2018 23:45:04 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 20
+[31-Jan-2018 00:09:43 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 22
+[31-Jan-2018 00:09:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'davidmoreno'@'localhost' (using password: NO) in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 22
+[31-Jan-2018 00:09:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 22
+[31-Jan-2018 00:09:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 23
+[31-Jan-2018 00:10:19 America/Chicago] PHP Fatal error:  Call to undefined function query() in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 22
+[31-Jan-2018 00:10:56 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 22
+[31-Jan-2018 00:10:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/addItem.php on line 23
+[31-Jan-2018 01:20:02 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/loadColumn.php on line 17
+[31-Jan-2018 01:20:33 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/loadColumn.php on line 17
+[31-Jan-2018 02:03:05 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/loadSettings.php on line 13
+[31-Jan-2018 02:03:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/loadSettings.php on line 13
+[31-Jan-2018 02:03:07 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/davidmoreno/72dragons.snxwless.net/s140630php/productiondetail/loadSettings.php on line 13

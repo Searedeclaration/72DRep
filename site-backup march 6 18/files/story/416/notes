@@ -1,0 +1,26 @@
+50% coems from whte width and 50% from the height
+25/574 440/234
+ if 25>=440 25/440 else 440/25 = width
+same for height
+
+
+
+["Leaders", "Forum", "Dragons & Friends", "Events", "Projects"];
+
+
+48 -max- 300      250 * % + 50
+30 -50%- 175      36  * % + 12
+12 -min- 50
+
+
+12/48 == 62.5/250
+
+
+bubble.offset.left / window.width = bubble.percent// 234/1080 = 0.22
+cursor.offset.left / window.width = cursor.percent// 734/1080 = 0.68
+if b < c then (bubble.percent / cursor.percent) * bubble.width.max = bubble.width.new // (0.22/0.68) * 200 = 64
+
+((bubble.pageX / $(window).width()) / (cursorX / $(window).width())) * $(this).css('max-width');
+
+
+https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UC9zmUnMUiuVyYv-9gnl4T_w&maxResults=50&order=date&key=AIzaSyBEmYpoxm3z6jj9UqJcjc5crbj8j_e6CJ4

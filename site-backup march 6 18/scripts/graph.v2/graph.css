@@ -1,0 +1,52 @@
+.graph {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.graph-right-side {
+    width: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+    height: -webkit-fill-available;
+}
+.graph-canvas {
+  transform: rotateX(180deg);
+}
+.y-axis {
+  width: 6vw;
+  height: -webkit-fill-available;
+  border-right: 1px #ad9440 solid;
+}
+.graph-y-block {
+    color: #ad9440;
+    font-size: 24px;
+    text-align: right;
+    margin: 0 10px;
+}
+.graph-y-block:first-child {
+  margin-top: -10px !important;
+}
+.x-axis {
+  height: 6vw;
+  width: 100%;
+  border-top: 1px #ad9440 solid;
+  margin-top: -7px;
+}
+.graph-x-block {
+    display: inline-block;
+    width: 200px;
+    line-height: 50px;
+    color: #ad9440;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+}
+.graph-x-block:after {
+    content: '';
+    position: absolute;
+    height: 10px;
+    width: 2px;
+    left: 99px;
+    top: -5px;
+    background: #ad9440;
+}

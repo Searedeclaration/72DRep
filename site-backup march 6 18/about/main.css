@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  font-family: "Spectral SC", serif;
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+#movieList {
+  width: 1000px;
+  position: relative;
+  margin: auto;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.staffProfileContainer {
+display: inline-block;
+margin: 20px 46px;
+  height: 240px;
+  width: 240px;
+  background-size: 100%;
+  background-position: center;
+  transition: background-size 0.5s;
+  overflow: hidden;
+}
+.staffProfileContainer:hover {
+  background-size: 110%;
+}
+.staffdetails {
+    width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  opacity: 0;
+  padding-top: 50px;
+  transition: opacity 0.5s;
+}
+.staffProfileContainer:hover .staffdetails {
+opacity: 1;
+}
+.staffdetails h3 {
+  margin: 0;
+}
+#t {
+  width: 50%;
+}
+.viewdetails {
+  border: 1px white solid;
+  width: 50%;
+  margin: 20px 25%;
+  transition: 0.5s;
+}
+.viewdetails:hover {
+  border-color: rgb(173, 148, 64);
+}
+.viewdetails a {
+  color: white;
+}
+
+.viewdetails a:hover {
+  color: rgb(173, 148, 64);
+}
+
+.button {
+background-color: rgb(173, 148, 64); width: 125px; color: white; text-align: center; padding: 5px; margin: auto; margin-top: 25px !important;
+transition: filter 0.5s;
+
+}
+.button:hover {
+filter: brightness(110%);
+}
+
+.head {
+  font-size: 40px;
+  border-bottom: 1px rgb(173, 148, 64) solid;
+  color: rgb(173, 148, 64);
+  text-align: center;
+  margin: 40px 40%;
+}
+
+#objective {
+  text-align: center;
+  font-size: 24px;
+  margin: 0 50px;
+}
+
+.hack {
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.carousel {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  margin: 50px 0;
+    font-family: 'Lato', sans-serif;
+}
+.insta {
+  position: relative;
+  min-width: 500px;
+  height: 200px;
+  border: 2px maroon solid;
+  background-color: #1b1b1b;
+  overflow: hidden;
+  display: flex;
+  color: white;
+  transition: left 0.01s;
+}
+.insta a {
+  color: white;
+  text-decoration: none;
+}
+.instaImage {
+  height: 100%;
+  width: 200px;
+  overflow: hidden;
+}
+#insta .instaImage img{
+  height: 100%;
+}
+
+#youtube .instaImage img{
+  height: 100%;
+  position: relative;
+  left: calc(50% - 100px);
+}
+
+.instaDetails {
+  width: 300px;
+  border-left: 2px white solid; /*or a diff color*/
+}
+#insta .instaUser {
+  display: flex;
+  border-right: 2px white solid;
+}
+#youtube .instaUser {
+  display: flex;
+}
+.instaDetails a {
+  width: 80%;
+}
+.instaUserProfile {
+  margin-right: 5px;
+}
+.instaUserProfile img {
+  width: 50px;
+}
+.instaTop {
+  display: flex;
+  width: 100%;
+  border-bottom: 2px white solid;
+}
+.instaLikes {
+  width: 20%;
+  text-align: center;
+  cursor: pointer;
+}
+.instaDescription {
+  width: 100%;
+  padding: 5px;
+}
+
+.socialtitle {
+    margin-left: 10px;
+    margin-bottom: -30px;
+    font-size: 24px;
+    color: rgb(173, 148, 64);
+    }

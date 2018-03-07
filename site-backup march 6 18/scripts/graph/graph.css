@@ -1,0 +1,74 @@
+.graph {
+  margin: 10px;
+  min-width: 500px;
+  max-width: 500px;
+  height: 500px;
+  color: white;
+  position: relative;
+  border: 2px #ad9440 solid;
+}
+.graph-title {
+  font-size: 24px;
+  height: 42px;
+  text-align: center;
+  color: black;
+  background: #ad9440;
+}
+.graph-xaxis {
+  height: 49px;
+  width: calc(100% - 50px);
+  border-top: 1px #5C4805 solid;
+  position: relative;
+  left: 50px;
+}
+.graph-xaxis ul {
+  margin: 0px;
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+.graph-xaxis li {
+  margin: auto;
+}
+.graph-xaxis li:first-child {
+  margin-left: 5px;
+}
+.graph-xaxis li:last-child {
+  margin-right: 5px;
+}
+.graph-yaxis {
+  width: 49px;
+  height: calc(100% - 92px);
+  position: relative;
+  border-right: 1px #5C4805 solid;
+}
+.graph-yaxis ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  padding-right: 10px;
+  height: 100%;
+  text-align: right;
+}
+.graph-yaxis li {
+  height: 23.5%;
+}
+.graph-data {
+  position: absolute;
+  left: 71px;
+  top: 21px;
+  transform: rotate(-90deg) rotateX(180deg);
+}
+.graph-dropDown {
+    position: absolute;
+    width: 500px;
+    height: auto;
+    bottom: auto;
+    border: 2px #ad9440 solid;
+    left: -2px;
+    background: black;
+    font-size: 18px;
+    text-align: center;
+    z-index: 10;
+    color: #ad9440;
+}

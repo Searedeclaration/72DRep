@@ -1,0 +1,617 @@
+<style>
+a {
+  text-decoration: none;
+  transition: color 0.5s;
+}
+a:hover {
+  color: maroon;
+}
+
+header {
+  position: sticky;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  line-height: 100px;
+  transition: border-bottom 0.5s;
+  top: 0;
+  background: #000000;
+  z-index: 214748364;
+}
+#uncover {
+  position: absolute;
+  height: 100px;
+  width: 0%;
+  background: maroon;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+#titleCon {
+  overflow: hidden;
+}
+#title {
+  position: absolute;
+  z-index: 5;
+  font-size: 75px;
+  color: black;
+  transition: color 0.5s;
+}
+#fontred {
+  color: black;
+  transition: color 0.5s;
+}
+#icon {
+  width: 100px;
+  height: 100px;
+  background-image: url(https://cinando.com/img/company/1010924.jpg?width=283&height=283&404=noimg_company.png);
+  background-position: center;
+  background-size: 125%;
+  filter: invert(1) hue-rotate(180deg);
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+nav {
+  position: absolute;
+  right: 10px;
+  font-size: 24px;
+  height: 100%;
+  line-height: 50px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+}
+nav ul li {
+  margin: 0 10px;
+  color: #fff;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.4s;
+}
+nav ul li a:hover {
+  color: maroon;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: "Spectral SC", serif;
+  overflow-x: hidden;
+}
+
+button, input[type=submit] {
+    border: none;
+    background: #1b1b1b;
+    color: white;
+    margin-right: 5px;
+    padding: 10px;
+    font-size: 12px;
+    transition: background 0.5s;
+    cursor: pointer;
+      font-family: "Spectral SC", serif;
+}
+input[type=submit] {
+width: 200px;
+margin: auto !important;
+font-size: 16px;
+height: 44px;
+}
+button:hover, input[type=submit]:hover {
+  background: maroon;
+}
+button:active, input[type=submit]:active {
+  background: #A21616;
+}
+
+#container {
+  position: relative;
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  border-right: 5px #343436 solid;
+  border-left: 5px #343436 solid;
+}
+
+#dropDown {
+  display: none;
+  position: fixed;
+  left: calc(50% - 300px);
+  top: 110px;
+  width: 600px;
+  height: 550px;
+  z-index: 100000000;
+  background-color: black;
+  transition: top 0.5s;
+}
+#photoCon {
+    width: 100%;
+    padding: 10px 0;
+    overflow: auto;
+    height: 325px;
+    background: #161616;
+    border-bottom: 5px #343436 solid;
+    transition: padding 0.5s, height 0.5s;
+}
+.member-bar {
+    width: 560px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 100px;
+    background: #1b1b1b;
+    border: 2px #800000 solid;
+    cursor: pointer;
+    transition: border-color 0.5s, border-width 0.5s;
+}
+.member-bar:hover {
+	border-color: #ad9440;
+}
+.member-bar-photo {
+    height: 100%;
+    width: 100px;
+    background-position: center;
+    background-size: cover;
+}
+.member-bar-name {
+    font-size: 24px;
+    padding: 3px 10px;
+    color: #ad9440;
+}
+#member-active {
+	border-color: #ad9440 !important;
+	border-width: 5px !important;
+}
+#photo {
+  display: block;
+  margin: 0 auto;
+  height: 100%;
+  max-width: 100%;
+}
+#infoCon {
+  width: 100%;
+  height: 150px;
+}
+#member {
+  padding: 10px;
+  display: flex;
+}
+#left {
+  width: 80%;
+}
+#right {
+  width: 20%;
+  position: relative;
+}
+#member input {
+  width: 100px;
+  margin: 5px 0;
+}
+#memberButtons {
+	display: flex;
+}
+.addMember {
+  position: relative;
+  width: 80px !important;
+  height: 80px;
+  border: 1px #343436 dashed;
+  color: #343436;
+  cursor: pointer;
+  margin-left:220px;
+}
+.addMember span {
+  position: absolute;
+  width: 100%;
+  bottom: 5px;
+  text-align: left;
+  margin-left:5px;
+}
+.addMember:before {
+  content: '';
+  position: absolute;
+  width: 50px;
+  border: 2px #343436 solid;
+  left: calc(50% - 26px);
+  top: 35px;
+  transition: border-color 0.5s;
+}
+.addMember:after {
+  content: '';
+  position: absolute;
+  height: 50px;
+  border: 2px #343436 solid;
+  left: calc(50% - 1px);
+  top: 10px;
+  transition: border-color 0.5s, transform 0.25s;
+}
+.addMember:hover:before, .addMember:hover:after {
+  border-color: maroon;
+}
+
+.photoList {
+	    display: -webkit-box;
+    overflow: auto;
+    width: 910px;
+}
+.preview {
+    background-position: center;
+    background-size: cover;
+    border: 1px #ad9440 solid;
+    margin: 0px 10px;
+    width: 100px;
+    position: relative;
+}
+.member-drop {
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    background: #1b1b1b;
+    color: #ad9440;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    opacity: 0;
+    top: -1px;
+    border: 1px #ad9440 solid;
+    border-left: 0;
+    z-index: 100000;
+    transition: opacity 0.5s, left 0.5s;
+    left: 0;
+}
+.preview:hover .member-drop {
+	left: 100px;
+	opacity: 1;
+}
+.poster {
+display: table;
+    color: #ad9440;
+    text-align: center;
+}
+.poster-view {
+    height: 76px;
+    display: table-cell;
+    vertical-align: middle;
+    background: rgba(27, 27, 27, 0.85);
+    opacity: 0;
+    transition: opacity 0.5s, background 0.5s;
+}
+.poster-remove {
+    display: table-row-group;
+    background: rgba(128, 0, 0, 0.85);
+    opacity: 0;
+    transition: opacity 0.5s, background 0.5s;
+}
+.preview:hover .poster-view, .preview:hover .poster-remove {
+	opacity: 1;
+	    cursor: pointer;
+}
+.poster-view:hover {
+    background: rgba(27, 27, 27, 1);
+}
+.poster-remove:hover {
+    background: rgba(128, 0, 0, 1);
+}
+#memberAddPhoto {
+  display: none;
+  margin-bottom: 10px;
+}
+
+#dropDownCover {
+  top: 0;
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0.9;
+  z-index: 10000000;
+}
+
+.section {
+  padding: 10px 0;
+}
+
+
+
+.title {
+  display: block;
+  margin: 10px 45px;
+  color: rgb(173, 148, 64);
+  font-size: 36px;
+  display: flex;
+}
+.dragon {
+  position: relative;
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+  background-image: url(/images/dragon2.gif);
+  background-size: cover;
+  background-position: center;
+  cursor: help;
+  animation: hover 2s linear infinite;
+}
+.dragon:hover .dragon-help {
+	display: block;
+}
+.dragon-help {
+position: absolute;
+    background: #1b1b1b;
+    border: 2px maroon solid;
+    width: 300px;
+    height: auto;
+    text-align: justify;
+    font-size: 16px;
+    top: 60px;
+    right: calc(50% - 166px);
+    padding: 10px;
+    z-index: 100;
+        display: none;
+}
+.dragon-help:after {
+content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: -7px;
+    left: 150px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #800000;
+}
+@keyframes hover {
+	25%{margin-top: 5px}
+	75%{margin-top: -5px}
+}
+
+input {
+  display: block;
+  margin: auto;
+  height: 35px;
+  width: 750px;
+  border: 0;
+  border-left: 5px #343436 solid;
+  background-color: #1b1b1b;
+  color: #FFF;
+  padding: 0 5px;
+  font-size: 16px;
+  transition: border-color 0.5s;
+  font-family: 'Lato', sans-serif;
+}
+select {
+  display: block;
+  margin: auto;
+  height: 38px;
+  width: 768px;
+  border: 0;
+  border-left: 5px #343436 solid;
+  background-color: #1b1b1b;
+  color: #FFF;
+  padding: 0 5px;
+  font-size: 16px;
+  transition: border-color 0.5s;
+  font-family: 'Lato', sans-serif;
+}
+
+.addMember input[type=file] {
+    width: 102px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    opacity: 0;
+    cursor: pointer;
+    height: 100%;
+    z-index: 10;
+}
+.hidden {
+display: none;
+}
+
+textarea {
+  display: block;
+  margin: auto;
+  width: 895px;
+  height: 200px;
+  border: 0;
+  border-left: 5px #343436 solid;
+  background-color: #1b1b1b;
+  color: #FFF;
+  padding: 5px;
+  resize: none;
+  font-size: 16px;
+  transition: border-color 0.5s;
+  font-family: 'Lato', sans-serif;
+}
+
+textarea:focus, input:focus, button:focus{
+  outline: none;
+  border-color: maroon;
+}
+
+.choices {
+  margin: 10px 45px;
+}
+.stagesOfDevCon {
+  width: 100%;
+  height: auto;
+  min-height: 100px;
+}
+.hoverStage {
+ width: 100%;
+  height: 30px;
+  position: relative;
+  background: #1b1b1b;
+}
+.stage-bar {
+  position: absolute;
+  background: #800000;
+  width: 0%;
+  height: 100%;
+  transition: width 0.5s;
+}
+.stageCon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 5;
+  display: flex;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+.stage {
+  width: 20%;
+  text-align: center;
+  color: #ad9440;
+  font-size: 18px;
+  line-height: 30px;
+  border-right: 3px black solid;
+  cursor: pointer;
+}
+.stage:last-child {
+  border-right: 0;
+}
+.stage span {
+  opacity: 0;
+  transition: 0.5s;
+}
+.stage:hover span {
+  opacity: 1;
+}
+.activeStage {
+  opacity: 1 !important;
+}
+.milestones{
+  display: flex;
+  height: auto;
+}
+.dropped {
+  height: 501px !important;
+}
+.dropDownStage {
+  height: 0;
+  width: 20%;
+  border-right: 3px black solid;
+  overflow-x: hidden;
+  overflow-y: auto;
+  transition: height 0.5s;
+}
+.dropDownStage:last-child {
+  border-right: 3px black solid;
+}
+/*.addAnother {
+  text-align: center;
+    width: 18px;
+    height: 18px;
+    background: #800000;
+    line-height: 18px;
+    left: calc(50% - 10px);
+    cursor: pointer;
+    position: relative;
+    border: 1px #ad9440 solid;
+}*/
+
+
+.choice {
+    position: relative;
+    z-index: 2;
+    min-width: 140px;
+    margin: 10px 0;
+    margin-left: 5px;
+    display: inline-flex;
+    color: white;
+    font-size: 18px;
+  cursor: pointer;
+}
+.checkbox {
+    min-width: 60px;
+  max-width: 60px;
+    height: 60px;
+    position: relative;
+    /* background-color: #1b1b1b; */
+    cursor: pointer;
+    margin-right: 5px;
+    background-image: url(http://72dragons.snxwless.net/images/dragon1pre.png);
+    background-position: center;
+    background-size: 150%;
+    filter: brightness(50%);
+    transition: filter 0.5s;
+}
+.choice:hover .checkbox {
+  background-image: url(http://72dragons.snxwless.net/images/dragon1peek.png);
+      filter: brightness(75%);
+}
+.checked {
+  background-image: url(http://72dragons.snxwless.net/images/dragon1post.png) !important;
+      filter: brightness(100%) !important;
+}
+.check {
+    visibility: hidden;
+}
+.stageFile {
+    background: black;
+    height: 50px;
+    width: calc(100% - 11px);
+    border: 3px #565656 solid;
+    position: relative;
+    font-size: 14px;
+    overflow: hidden;
+    text-align: center;
+  display: none;
+}
+.showStageFile {
+  display: table;
+}
+.stageFile input{
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  height: 100%;
+  opacity: 0;
+    cursor: pointer;
+}
+.stageFile span {
+    width: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    color: #ad9440;
+}
+.LeftCont{
+	float: left;
+    width: 50%;
+    padding: 10px;
+    height: 800px;
+    margin-left: 80px;
+}
+.RightCont{
+	float:right;
+	Height:400px;
+	width:30%;
+	margin-right:0px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+	
+}
+#map {
+        width: 768px;
+        height: 400px;
+        background-color: grey;
+      }
+</style>

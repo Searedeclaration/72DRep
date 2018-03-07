@@ -1,0 +1,46 @@
+if firstChar is " then
+	if lastChar is not " then
+		check lastChar in next , & skip++
+		
+			
+			
+			
+		    position: fixed;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background: black;
+    border: 5px #ad9440 solid;
+    top: calc(50% - 25px);
+    left: calc(50% - 50px);
+
+<div id="uploadCSVBox">
+<div id="uploadClick">Add CSV</div>
+<input type="file" id="uploadCSV">
+<button id="submitCSV" type="button" onclick="uploadCSV()">Upload CSV</button></div>
+			
+			
+			
+			console.log(hasMockup + "///" + inProgress + "///" + inDatabase + "///" + storyType + "///" + isComplete + "///" + search + "///" + hasWebpage + "///" + perComp);
+			
+			
+			
+			for (var i = 0; i < fileText.split('\n').length; i++) { //add ' so you can insert as a sql query
+          if ((fileText.split('\n')[i].match(/\"/g) || []).length > 0) { 
+            for (var c = 1; c < (fileText.split('\n')[i].match(/,/g) || []).length; c++) {
+             if (!skip) {
+               console.log(fileText.split('\n')[i].split(',')[i]);
+              if (fileText.split('\n')[i].split(',')[c].charAt(0) == '"')
+	              readyLine += "'" + fileText.split('\n')[i].split(',')[c].replace('"', '').slice(0, -1) + "',";
+               
+	            //skip = true;
+             } else {4
+               skip = false;
+               readyLine += "'" + fileText.split('\n')[i].split(',')[c] + "',";
+             }
+            }
+            data.push(readyLine);
+            readyLine = "";
+          } else
+             data.push("'" + fileText.split('\n')[i].replace(/,/g, "','") + "'"); //remove last ,''
+        }

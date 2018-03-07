@@ -1,0 +1,161 @@
+.graph-x {
+  grid-area: x;
+  display: inline-flex;
+}
+.graph-x span {
+  margin-left: auto;
+  width: 0;
+}
+.graph-x span:after {
+  content: '';
+  position: absolute;
+  border-right: 1px #1b1b1b solid;
+  height: 100%;
+  top: -20px;
+}
+.graph-y {
+  display: inherit;
+  grid-area: y;
+}
+.graph-y span {
+  text-align: right;
+  padding-right: 10px;
+  margin: 20px 0;
+}
+.graph-area {
+  border-bottom: 2px #1b1b1b solid;
+  border-left: 2px #1b1b1b solid;
+  grid-area: graph;
+  display: grid;
+}
+.graph-area-barcontainer {
+  display: flex;
+  margin: 20px 0;
+}
+.graph-area-bar {
+  position: relative;
+  height: 25px;
+  border-top: 1px gray solid;
+  border-bottom: 1px gray solid;
+  cursor: pointer;
+  transition: filter 0.5s, width 0.5s;
+}
+.graph-area-bar:hover {
+  filter: brightness(125%);
+}
+.graph-area-popup {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background: #1b1b1b;
+    border: 2px #ad9440 solid;
+    border-radius: 10px;
+  z-index: 1000;
+  display: none;
+  text-align: center;
+  top: 0;
+  overflow: hidden;
+  transition: width 1s, height 1s, top 1s, left 1s;
+}
+.graph-area-popup:before {
+content: '';
+    position: absolute;
+    left: -8px;
+    top: 18px;
+    width: 10px;
+    height: 10px;
+    transform: rotate(45deg);
+    background: #1b1b1b;
+    border-bottom: 2px #ad9440 solid;
+    border-left: 2px #ad9440 solid;
+}
+.popup-keep {
+  display: block !important;
+  border-radius: 0 !important;
+  border: 0;
+  width: 1000px !important;
+  height: calc(100% - 101px) !important;
+  position: fixed !important;
+  top: 101px !important;
+  left: calc(50% - 500px) !important;
+  overflow: auto !important;
+}
+.popup-keep .close {
+	width: 49px;
+	height: 49px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+.popup-keep .close:before {
+content: '';
+    position: absolute;
+    width: 50px;
+    height: 5px;
+    top: 23px;
+    left: 0;
+    transform: rotate(45deg);
+    background: #ad9440;
+}
+.popup-keep .close:after {
+content: '';
+    position: absolute;
+    width: 50px;
+    height: 5px;
+    top: 23px;
+    left: 0;
+    transform: rotate(-45deg);
+    background: #ad9440;
+}
+.popup-keep .popup-title {
+  font-size: 32px;
+  background-color: #161616;
+}
+.popup-keep .popup-eventlist {
+  width: 1000px;
+  display: inline-block;
+}
+.event {
+ margin: 20px 41px;
+    width: 240px;
+    height: 300px;
+    display: inline-block;
+    border: 5px #161616 solid;
+}
+.graph-labels {
+  grid-area: label;
+  display: table;
+}
+.graph-labels-box {
+  display: table-cell;
+  vertical-align: middle;
+}
+.graph-labels-box ul {
+  list-style: none;
+}
+.graph-labels-box ul li {
+  display: flex;
+}
+.graph-labels-box ul li div {
+    width: 12px;
+    height: 12px;
+    position: relative;
+    border: 1px gray solid;
+    margin: 6px;
+}
+.graph-extra {
+  grid-area: dontuse;
+}
+
+.graph {
+  width: 100%;
+  height: 100%;
+  /*max-height: 600px;
+  max-width: 1000px;*/
+  overflow: hidden;
+  position: relative;
+  display: grid;
+  color: #ad9440;
+  grid-template-areas:'y graph graph graph label' 'y graph graph graph label' 'y graph graph graph label' 'y graph graph graph label' 'dontuse x x x label';
+}

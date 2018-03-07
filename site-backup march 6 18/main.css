@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: #ad9440;
+  font-family: 'Spectral SC', serif;
+}
+
+#mainmenu {
+  width: 1000px;
+  position: absolute;
+  left: calc(50% - 500px);
+  text-align: center;
+  animation: fadeIn 1.5s forwards;
+}
+@keyframes fadeIn {
+  from  {top: 0; opacity: 0;}
+  to {top: 10vh; opacity: 1;}
+}
+
+#icon {
+  position: relative;
+  left: calc(50% - 100px);
+  width: 200px;
+  height: 200px;
+  background-image: url(images/72DragonsLogo.jpg);
+  background-position: center;
+  background-size: 100%;
+  cursor: pointer;
+  filter: invert(1) hue-rotate(180deg);
+  animation: rot 15s linear infinite;
+}
+
+.paused {
+   -ms-animation-play-state:paused;
+   -o-animation-play-state:paused;
+   -moz-animation-play-state:paused;
+   -webkit-animation-play-state:paused;
+  animation-play-state: paused !important;
+}
+@keyframes rot {
+  from{transform: rotate(0deg);}
+  to{transform: rotate(-359deg);}
+}
+
+
+#title {
+  font-size: 100px;
+}
+#fontred {
+  color: maroon;
+}
+
+nav {
+    font-size: 24px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+}
+nav ul li {
+  color: #FFF;
+  transition: opacity 0.5s;
+  margin: auto;
+}
+nav ul li a {
+ color: #ad9440;
+  text-decoration: none;
+  transition: color 0.4s;
+}
+nav ul li a:hover {
+  color: maroon;
+}
+

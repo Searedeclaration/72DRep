@@ -1,0 +1,105 @@
+<?php
+include($_SERVER['DOCUMENT_ROOT']."/s140630php/config.php"); //Connects to the database located in [domain name]/s140630php/config.php
+// use the period to connect variables and text
+//For example, if you have a variable $var and you want to add it into a sentence, you can do "Hey the variable is ".$var."!"
+//$_SERVER['DOCUMENT_ROOT'] represents the domain name or home folder, useful for going back to access other folders or files
+
+
+if ($db->connect_errno) { //$db represents the database, if it gives an error, then it means it is unable to connect
+    echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error; //I use mysqli for accessing databases, the many commands for mysqli can be found here http://php.net/manual/en/book.mysqli.php
+    //currently, everything you need to know for using php right now can be found on this page, but if you would like to research more about the different classes, then feel free to
+}
+
+$prodTitle = $_POST['prodTitle'];   //Assigning form input, or data sent, through a post
+$prodRegion = $_POST['prodRegion']; //the name inside the post is the name found in an input ex. <input type="text" name="inputname">
+$prodDesc = $_POST['prodDesc'];     //the different between get and post is that get displays the information sent in the url, while post does not
+$prodNeeds = $_POST['prodNeeds'];   //In ajax, it is important to define which method you are using, as that will be the only type that the php script will accept
+
+
+
+//Production Information	
+$query = "INSERT INTO userProductions (title, region, description, needs) VALUES ('$prodTitle', '$prodRegion', '$prodDesc', '$prodNeeds');"; //Define the query that will be sent to the database
+//Insert and update queries are simple as they will only require about one or two lines to submit
+//Insert queries go as such: INSERT INTO tablename (columns) VALUES (values)
+//To use php variables in a query, you must include single quotes around them
+$db->query($query); //Submit the intert or update query
+
+$query = "SELECT productionID FROM userProductions WHERE title = '$prodTitle' AND region = '$prodRegion' AND description = '$prodDesc' ORDER BY productionID DESC"; //Here is a select query, which will send us data from whatever tables we ask it to
+//Select queries go as such: SELECT variables FROM tablename (you can include 'WHERE' if you would like to only get specific rows and 'ORDER BY column ASC/DESC' if you would like to sort it
+$result = mysqli_query($db,$query); //get the result from the query, this is recieved as an array if it is multiple columns and or rows
+while($data = mysqli_fetch_array($result)) { //go through the array result recieved line by line
+	$movieID = $data[0]; //set variables or an array container to the data
+	break; //I have this here to only get the last movieID, in case there is a rare occurance of a duplicate I wont be grabbing more than one line
+}
+
+
+
+//Genres
+if(isset($_POST['check'])) { //check if the input(s) containing this name was used and sent, and if so then continue into the if statement
+$numItems = count($_POST['check']); //Count the number of items recieved
+$i = 0; //i will count each loop
+$query = "INSERT INTO prodGenres (productionID, genre) VALUES"; //set the insert query, nothing after values for now as it will be set in the loop
+foreach ($_POST['check'] as $genre) {//loop through each item in the array/post as $genre
+if(++$i === $numItems) {//if we are on the last item in the array/post
+ $query .= " ('$movieID', '$genre');";
+} else {
+ $query .= " ('$movieID', '$genre'), ";
+ }
+}
+$db->query($query);
+}
+
+
+
+//Members
+if(isset($_POST['member'])) {
+$memberInfo = array(); //defining an array, $variable[] would work too
+$numItems = count($_POST['member']);
+$i = 0;
+foreach ($_POST['member'] as $member) { //loop through each item in the array/post as $member
+	$memberInfo[++$i][0] = $member;
+}
+$i = 0;
+foreach ($_POST['role'] as $role) {//loop through each item in the array/post as $role
+	$memberInfo[++$i][1] = $role;
+}
+$i = 0;
+foreach ($_POST['character'] as $character) {//loop through each item in the array/post as $character
+	$memberInfo[++$i][2] = $character;
+}
+
+$numItems = count($memberInfo);
+$i = 0;
+$query = "INSERT INTO prodMembers (productionID, memberID, role, characterName) VALUES"; //same as the '//Genres' section
+foreach ($memberInfo as $member) {
+if(++$i === $numItems) {
+ $query .= " ('$movieID', '$member[0]', '$member[1]', '$member[2]');";
+} else {
+ $query .= " ('$movieID', '$member[0]', '$member[1]', '$member[2]'), ";
+ }
+}
+$db->query($query);
+}
+
+
+
+//Files
+foreach (array_slice($_FILES["poster"]["error"], 1) as $key => $error) { //arrayslice is used here to cut off the first character, then it is set as $key
+//=> $error means that this will throw and error number and that will determine if there are any issues
+    if ($error == UPLOAD_ERR_OK) { //the error number was a successful one, meaning no problems
+        $tmp_name = $_FILES["poster"]["tmp_name"][$key]; //get the temporary name generated in the file and set it
+        $name = basename($_FILES["poster"]["name"][$key]); //get the file name and set it
+        move_uploaded_file($tmp_name, $_SERVER['DOCUMENT_ROOT']."/images/posters/".$name); //move the file defined by its temporary name to the url [domain name]/images/posters/FILENAME
+        $query = "INSERT INTO prodPosters (productionID, posterURL) VALUES ('$movieID', '$name');"; //insert the file location into the database
+        $db->query($query);
+    } else { //there was an error and it was sent to the recieving ajax command or will be listed on the page
+    	echo $error;
+    }
+}
+
+
+mysqli_close($db); //close the database
+
+header("location: ../production/movie.php?id=".$movieID); //redirect the user the production page created from all the information on this page
+// you can use double periods in header to define the home folder or domain name
+?>
